@@ -12,7 +12,7 @@
 
 ## Motivação
 
-Este app é uma demonstração do uso de integração e entrega contínuas utilizando o [workflow](./.github/workflows/node.js.yml) intitulado "Node.js" e pré-configurado pelo próprio [GitHub Actions](https://github.com/features/actions). O fluxo ouve os commits feitos na branch `main` e executa os testes de ponta a ponta e de componente contidos no diretório [`cypress/`](./cypress/). Se nenhum teste lançar uma exceção, o fluxo faz deploy do app na plataforma Vercel e disponibiliza o app em produção em seu respectivo [domínio](https://exemplo-ci-cd-react.vercel.app/).
+Este app é uma demonstração do uso de integração e entrega contínuas utilizando o [workflow](./.github/workflows/node.js.yml) intitulado "Node.js" e pré-configurado pelo próprio [GitHub Actions](https://github.com/features/actions). O fluxo ouve os commits feitos na branch `main` e executa os testes de ponta a ponta e de componente contidos no diretório [`cypress/`](./cypress/). Se nenhum teste lançar uma exceção, o fluxo faz deploy do app na plataforma Vercel e disponibiliza o app em produção em seu respectivo [domínio](https://ci-cd-anime-snap.vercel.app).
 
 Foi utilizado como base o repositório [mdccg/anime-snap](https://github.com/mdccg/anime-snap/), o qual já contém os respectivos testes prontos e um app de exemplo para testar.
 
