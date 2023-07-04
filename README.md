@@ -18,7 +18,7 @@ Foi utilizado como base o repositório [mdccg/anime-snap](https://github.com/mdc
 
 Este foi o oitavo repositório de código apresentado no [Curso Superior de TSI do IFMS](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) como requisito para obtenção da nota parcial das atividades da unidade curricular Construção de Páginas Web IV.
 
-| [&larr; Repositório anterior](https://github.com/mdccg/ci-cd-anime-snap) |
+| [&larr; Repositório anterior](https://github.com/mdccg/exemplo-ci-cd-react) |
 |-|
 
 ## Pilha de tecnologia
